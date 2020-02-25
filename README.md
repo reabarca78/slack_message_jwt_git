@@ -50,6 +50,14 @@ pip install -r requirements.txt
 - jwtnotation.txt          : Example of the payload.
 
 
+### Run it , you can create a Openwhisk server less function and send it the parameter in a web action.
+
+https://console.bluemix.net/docs/openwhisk/openwhisk_actions.html#creating-python-actions
+
+
+- python --jwt_token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
 ## Authors
 
 * **Roy Abarca** - *Initial work* - rabarca@asys.co.cr
