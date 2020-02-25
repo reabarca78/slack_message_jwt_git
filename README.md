@@ -1,5 +1,5 @@
 # slack_message_jwt_git
-- This service will receive a jwt string  and will trigger slack message using slack app
+- This service will receive a jwt string  and it  will trigger slack message using slack app.
 
 ### Prerequisites
 
@@ -50,9 +50,9 @@ pip install -r requirements.txt
 - jwtnotation.txt          : Example of the payload.
 
 
-### Run it , you can create a Openwhisk server less function and send it the parameter in a web action.
+### Run it , you can create a Openwhisk server less function and send the (jwt_token) parameter in a web action.
 
-https://console.bluemix.net/docs/openwhisk/openwhisk_actions.html#creating-python-actions
+https://www.ibm.com/developerworks/cloud/library/cl-python-openwhisk-bluemix-trs/index.html
 
 
 - python --jwt_token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
