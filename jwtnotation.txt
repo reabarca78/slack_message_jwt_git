@@ -1,0 +1,7 @@
+
+{
+ "Message": "Error on CED",
+ "Channel": "GJXDW7PKJ",
+ "AuthorName": "CED BOT",
+ "Icon": ":error:"
+}
