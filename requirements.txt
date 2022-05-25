@@ -1,4 +1,4 @@
 cryptography==2.7
 pem==19.2.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 slackclient==1.2.1
